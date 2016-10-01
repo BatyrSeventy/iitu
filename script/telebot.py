@@ -1,2 +1,1 @@
-def main(**kwargs):
-    print('Preved, medved!')
+print('Preved, medved!')
